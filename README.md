@@ -8,7 +8,7 @@ All currently existing hacks are outdated so I made my own
 * Start the gravity game
 * Paste the contents of 'hack.js' into the console and hit Enter
 
-## Troubleshooting
+## Troubleshooting:
 * No answer appearing in the input box:
   + Paste the script in the console again
   + Report error by commenting on the repository
