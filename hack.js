@@ -15,12 +15,10 @@ setInterval(function() {
   let inputBox = document.getElementsByClassName('GravityTypingPrompt-input js-keymaster-allow')[0]
   try {
     let term = document.getElementsByClassName('TermText notranslate')[0].outerText
-    console.log(term)
     if (term != lastWord) {
       inputBox.value = words[term]
       lastWord = term
     }
   } catch {
-
   }
 }, 0);
