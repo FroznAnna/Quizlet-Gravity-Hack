@@ -1,5 +1,5 @@
 # Quizlet-Gravity-Hack [2022]
-[![HitCount](https://hits.dwyl.com/froznanna/Quizlet-Gravity-Hack.svg?style=flat-square)](http://hits.dwyl.com/froznanna/Quizlet-Gravity-Hack)
+[![HitCount](https://hits.dwyl.com/froznanna/Quizlet-Gravity-Hack.svg?style=flat-square)](http://hits.dwyl.com/froznanna/Quizlet-Gravity-Hack) \
 All currently existing hacks are outdated so I made my own
 
 ## To use:
