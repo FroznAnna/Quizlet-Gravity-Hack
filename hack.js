@@ -1,4 +1,4 @@
-alert('Thank you for using FroznAnna\'s Quizlet Gravity Hack\nWhen the answer appears in the textbox, press space then enter')
+alert('When the answer appears in the textbox, press space then enter')
 words = {};
 for(i = 0; i < Quizlet.gravityModeData.terms.length; i++){
 	if(Quizlet.gravityModeData.terms[i].definition != null){
